@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" font-family="'PingFang SC','Microsoft YaHei',sans-serif">
+  <rect width="1200" height="630" fill="#FFC72C"/>
+  <rect x="0" y="470" width="1200" height="160" fill="#DA291C"/>
+  <text x="600" y="120" text-anchor="middle" font-size="34" fill="#DA291C" font-weight="bold" letter-spacing="6">2026 麦当劳程序员创意开发大赛 · 参赛作品</text>
+  <text x="600" y="240" text-anchor="middle" font-size="88" fill="#DA291C" font-weight="bold">麦门积分玩家</text>
+  <text x="600" y="310" text-anchor="middle" font-size="38" fill="#DA291C" letter-spacing="4">McPoints Arcade</text>
+  <text x="600" y="390" text-anchor="middle" font-size="34" fill="#5c2d12">把你的麦当劳真实积分，用成一门运营</text>
+  <g font-size="28" fill="#FFFFFF" text-anchor="middle">
+    <text x="170" y="535">账户体检</text>
+    <text x="370" y="535">奖池情报</text>
+    <text x="570" y="535">真实抽奖</text>
+    <text x="770" y="535">商城淘金</text>
+    <text x="970" y="535">卡券收纳</text>
+  </g>
+  <g fill="#FFFFFF">
+    <circle cx="170" cy="505" r="5"/><circle cx="370" cy="505" r="5"/>
+    <circle cx="570" cy="505" r="5"/><circle cx="770" cy="505" r="5"/>
+    <circle cx="970" cy="505" r="5"/>
+  </g>
+  <text x="600" y="590" text-anchor="middle" font-size="22" fill="#FFE9b0">强耦合官方 MCP · 11 个积分接口含 3 个写操作 · WorkBuddy Skill + 零依赖 Python</text>
+</svg>
